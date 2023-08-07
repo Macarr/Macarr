@@ -6,7 +6,7 @@ Mi nombre es Macarena Rodríguez Rucci y soy Full Stack developer</div>
 - 🔭 Me apasiona seguir aprendiendo nuevas tecnologías.  
   
 
-- 🌱 Actualmente estoy trabajando en mi portfolio.  
+- 🌱 Actualmente estoy realizando una pasantia en Makisan tech con un proyecto para una clinica veterinaria.  
   
 
 <br/>  
